@@ -1,0 +1,145 @@
+===========================================================================
+RODZAJ INDEKSU: 40
+INDEKS NOWY: BRAK
+INDEKS WZORZEC: 40-0001-2217-00000
+INDEKS NAZWA: HK06_budka_V7_3/3
+INDEKS SKLAD: BRAK
+MARSZRUTA: 40140192
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: BRAK
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+===========================================================================
+RODZAJ INDEKSU: 40
+INDEKS NOWY: BRAK
+INDEKS WZORZEC: 40-0001-2218-00000
+INDEKS NAZWA: HK07_budka_V7_1/3
+INDEKS SKLAD: BRAK
+MARSZRUTA: 40140192
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: BRAK
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+===========================================================================
+RODZAJ INDEKSU: 40
+INDEKS NOWY: BRAK
+INDEKS WZORZEC: 40-0001-2219-00000
+INDEKS NAZWA: HK07_budka_V7_2/3
+INDEKS SKLAD: BRAK
+MARSZRUTA: 40140192
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: BRAK
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+===========================================================================
+RODZAJ INDEKSU: 40
+INDEKS NOWY: BRAK
+INDEKS WZORZEC: 40-0001-2220-00000
+INDEKS NAZWA: HK07_budka_V7_3/3
+INDEKS SKLAD: BRAK
+MARSZRUTA: 40140192
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: BRAK
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+===========================================================================
+RODZAJ INDEKSU: 40
+INDEKS NOWY: BRAK
+INDEKS WZORZEC: 40-0001-2221-00000
+INDEKS NAZWA: HK08_budka_V4
+INDEKS SKLAD: BRAK
+MARSZRUTA: 40140192
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: BRAK
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
